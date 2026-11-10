@@ -1,126 +1,104 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Jeiseer Wilches — Datos y frontend" />
+<img src="./assets/banner.svg" width="100%" alt="Jeiseer Wilches: de los datos a la interfaz" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1100&color=4ADEB0&center=true&vCenter=true&width=700&lines=Datos+que+cuentan+historias.;Interfaces+que+conectan+ideas.;Aprendiendo%2C+creando+y+evolucionando." alt="Datos, interfaces y aprendizaje" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=E6E6E6&center=true&vCenter=true&width=680&lines=01+%2F+Exploro+los+datos.;02+%2F+Construyo+la+interfaz.;03+%2F+Aprendo+en+el+proceso." alt="Exploro los datos, construyo la interfaz y aprendo en el proceso" />
 
-![Analítica de datos](https://img.shields.io/badge/ENFOQUE-ANAL%C3%8DTICA%20DE%20DATOS-123E35?style=for-the-badge&labelColor=111C22&color=13795B)
-![Frontend](https://img.shields.io/badge/CREANDO-FRONTEND-0D719B?style=for-the-badge&labelColor=111C22)
-![Prácticas](https://img.shields.io/badge/ACTUALMENTE-EN%20PR%C3%81CTICAS-258A82?style=for-the-badge&labelColor=111C22)
+![Datos](https://img.shields.io/badge/01-AN%C3%81LISIS%20DE%20DATOS-E9E9E6?style=for-the-badge&labelColor=252525&color=454545)
+![Frontend](https://img.shields.io/badge/02-DESARROLLO%20FRONTEND-E9E9E6?style=for-the-badge&labelColor=252525&color=454545)
+![SENA](https://img.shields.io/badge/03-SENA%20%2F%20PR%C3%81CTICAS-E9E9E6?style=for-the-badge&labelColor=252525&color=454545)
 
 </div>
 
 <br/>
 
-## ✦ &nbsp; Un poco sobre mí
+## `01 /` &nbsp; Del dato a la pantalla
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="57%" valign="top">
 
-Soy **Jeiseer Wilches**, aprendiz del SENA en etapa de prácticas. Me gusta explorar la conexión entre los **datos**, las **personas** y las soluciones digitales.
+**Exploro la información. Construyo la interfaz. Aprendo en el proceso.**
 
-Participo en proyectos colaborativos principalmente desde el **frontend** y el **análisis de datos**. También tengo conocimientos básicos de backend y sigo aprendiendo con cada reto.
+Soy Jeiseer, aprendiz del SENA en etapa de prácticas. Participo en proyectos de **frontend y análisis de datos**, con curiosidad por entender también lo que ocurre detrás de la pantalla.
 
-📊 &nbsp; Exploro información y creo visualizaciones con Python y Power BI.  
-💻 &nbsp; Colaboro en la construcción de interfaces web.  
-🌱 &nbsp; Creo en aprender haciendo y crecer en equipo.
+Me gusta trabajar en equipo, convertir información en algo comprensible y construir interfaces que acerquen las ideas a las personas.
 
 </td>
-<td width="42%" align="center">
+<td width="43%">
 
-<img src="./assets/data-card.svg" width="100%" alt="Datos con propósito. Interfaces con intención." />
+<img src="./assets/data-card.svg" width="100%" alt="Analizar, construir, aprender: de los datos a la pantalla" />
 
 </td>
 </tr>
 </table>
 
-## ✦ &nbsp; Trayectoria y enfoque
+## `02 /` &nbsp; Mi forma de trabajar
 
-🏆 **Un logro que me impulsa**  
-Reconocido como **mejor aprendiz del segundo trimestre**, por mi desempeño académico y compromiso.
+| **01 — EXPLORAR** | **02 — CONSTRUIR** | **03 — MEJORAR** |
+| :--- | :--- | :--- |
+| Analizo, limpio y visualizo datos con Python y Power BI. | Participo en la creación de interfaces web y en proyectos de frontend. | Aprendo en equipo y fortalezco mis bases de SQL y backend. |
 
-🎓 **Formación en el SENA**  
-Programación para analítica de datos. Actualmente estoy realizando mis prácticas y fortaleciendo mis habilidades en un entorno de trabajo real.
+## `03 /` &nbsp; Proyecto destacado
 
-🔎 **Lo que me interesa**  
-Análisis exploratorio, visualización de datos, frontend y fundamentos de backend.
+### 🌸 Cattleya &nbsp; `SENA / FINALIZADO`
 
-## ✦ &nbsp; Herramientas y conocimientos
+Un proyecto colaborativo de análisis de datos sobre la **violencia contra la mujer en Colombia**. Una oportunidad para acercar una problemática social a las personas a través de la tecnología y la información.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Mi participación:** desarrollé el frontend del proyecto, como parte del trabajo en equipo.
 
-### 📊 Datos y visualización
+[**↗ Explorar Cattleya**](https://github.com/EstebanJimenez2311/Cattleya)
 
-<img src="https://skillicons.dev/icons?i=python,r&theme=dark" alt="Python y R" />
+---
 
-![Power BI](https://img.shields.io/badge/Power%20BI-174C3B?style=for-the-badge&logo=powerbi&logoColor=E8F8EE)
-![SQL básico](https://img.shields.io/badge/SQL-B%C3%A1sico-116D81?style=for-the-badge)
+### En construcción &nbsp; `PROYECTOS COLABORATIVOS`
 
-Exploración y limpieza de datos, consultas básicas y dashboards.
+Actualmente participo en **Prizma Studio, DOCenter, Auto Prizma Pro** y [**Cargue automático Prizma**](https://github.com/AutoPrizma/cargue-autom-tico-prizma.site-). Mi enfoque en estos proyectos combina frontend, análisis de datos y colaboración con el equipo.
 
-</td>
-<td width="50%" valign="top">
-
-### 💻 Desarrollo y colaboración
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="HTML, CSS, JavaScript, Git y GitHub" />
-
-Desarrollo de interfaces, trabajo en equipo y aprendizaje continuo de JavaScript y backend.
-
-</td>
-</tr>
-</table>
-
-## ✦ &nbsp; Proyectos en los que participo
+## `04 /` &nbsp; Herramientas
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌸 Cattleya
+**DATOS / VISUALIZACIÓN**
 
-![Finalizado](https://img.shields.io/badge/PROYECTO%20SENA-FINALIZADO-167D59?style=flat-square)
-
-Análisis de datos sobre la violencia contra la mujer en Colombia. Un proyecto en equipo para explorar información sobre una problemática social.
-
-**Análisis de datos** · **Trabajo en equipo**
-
-[Explorar repositorio ↗](https://github.com/EstebanJimenez2311/Cattleya)
+![Python](https://img.shields.io/badge/Python-292929?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-292929?style=for-the-badge&logo=powerbi&logoColor=white)
+![SQL básico](https://img.shields.io/badge/SQL%20b%C3%A1sico-292929?style=for-the-badge)
+![R básico](https://img.shields.io/badge/R%20b%C3%A1sico-292929?style=for-the-badge&logo=r&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Cargue automático Prizma
+**FRONTEND / COLABORACIÓN**
 
-![En desarrollo](https://img.shields.io/badge/COLABORATIVO-EN%20DESARROLLO-176F9B?style=flat-square)
-
-Proyecto colaborativo en el que participo como parte de mi experiencia de aprendizaje y trabajo en equipo.
-
-**Colaboración** · **Aprendizaje práctico**
-
-[Explorar repositorio ↗](https://github.com/AutoPrizma/cargue-autom-tico-prizma.site-)
+![HTML](https://img.shields.io/badge/HTML-292929?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-292929?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript básico](https://img.shields.io/badge/JavaScript%20b%C3%A1sico-292929?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-292929?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-292929?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-🧩 **También colaboro en Prizma Studio, DOCenter y Auto Prizma Pro**, proyectos en desarrollo en los que participo principalmente en frontend y análisis de datos.
+## `05 /` &nbsp; Formación y logros
 
-## ✦ &nbsp; Mi actividad en GitHub
+🎓 **SENA** — Formación en programación para analítica de datos; actualmente en etapa de prácticas.
+
+🏆 **Mejor aprendiz del segundo trimestre** — Reconocimiento por desempeño académico y compromiso.
+
+## `06 /` &nbsp; Actividad
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeiser15&bg_color=0d1117&color=5ee8b0&line=329ce8&point=bbf7d0&area=true&area_color=126c57&hide_border=true" alt="Gráfico de actividad pública en GitHub de Jeiser15" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeiser15&bg_color=0d1117&color=eeeeee&line=aaaaaa&point=ffffff&area=true&area_color=555555&hide_border=true" alt="Actividad pública de Jeiser15 en GitHub" width="100%" />
 
 <br/>
 
-**Cada dato tiene una historia. Cada proyecto, una oportunidad de aprender.**
+**DATOS → INTERFAZ → APRENDIZAJE**
 
-Gracias por visitar mi perfil 💚💙
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:0e7490,100:1d4ed8&height=100&section=footer" alt="" width="100%" />
+<sub>Gracias por pasar por aquí. / Jeiseer Wilches</sub>
 
 </div>
