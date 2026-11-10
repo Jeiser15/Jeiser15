@@ -4,7 +4,7 @@
 
 ### Datos, interfaces y aprendizaje continuo
 
-🟢 **Analítica de datos** &nbsp; | &nbsp; 🔵 **Frontend** &nbsp; | &nbsp; 🌱 **Aprendiz en prácticas**
+🟢 **Analítica de datos** &nbsp; | &nbsp; 🔵 **Frontend** &nbsp; | &nbsp;  **Aprendiz en prácticas**
 
 Transformo datos en información comprensible y participo en la creación
 de experiencias digitales.
