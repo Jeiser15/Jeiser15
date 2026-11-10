@@ -36,44 +36,27 @@ Soy aprendiz del SENA en etapa de prácticas. Participo en proyectos de **fronte
 
 ## ◼ &nbsp; EN CONSTRUCCIÓN <sub> / 02</sub>
 
-Colaboro en **Prizma Studio**, **DOCenter**, **Auto Prizma Pro** y [**Cargue automático Prizma ↗**](https://github.com/AutoPrizma/cargue-autom-tico-prizma.site-). Son proyectos en desarrollo en los que participo principalmente en frontend y análisis de datos.
+<img src="./assets/collab-mono.svg" width="100%" alt="Proyectos colaborativos en desarrollo: Prizma Studio, DOCenter, Auto Prizma Pro y Cargue automático" />
+
+Participo en estos proyectos principalmente en frontend y análisis de datos. [**Ver Cargue automático Prizma ↗**](https://github.com/AutoPrizma/cargue-autom-tico-prizma.site-)
 
 <br/>
 
 ## ◼ &nbsp; MI CAJA DE HERRAMIENTAS <sub> / 03</sub>
 
-**DATOS &nbsp; / &nbsp; ANÁLISIS**
-
-![Python](https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-252525?style=for-the-badge&logo=powerbi&logoColor=white)
-![SQL básico](https://img.shields.io/badge/SQL%20b%C3%A1sico-252525?style=for-the-badge)
-![R básico](https://img.shields.io/badge/R%20b%C3%A1sico-252525?style=for-the-badge&logo=r&logoColor=white)
-
-**INTERFAZ &nbsp; / &nbsp; COLABORACIÓN**
-
-![HTML](https://img.shields.io/badge/HTML-eeeeee?style=for-the-badge&logo=html5&logoColor=111111)
-![CSS](https://img.shields.io/badge/CSS-eeeeee?style=for-the-badge&logo=css&logoColor=111111)
-![JavaScript básico](https://img.shields.io/badge/JavaScript%20b%C3%A1sico-eeeeee?style=for-the-badge&logo=javascript&logoColor=111111)
-![Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=111111)
-![GitHub](https://img.shields.io/badge/GitHub-eeeeee?style=for-the-badge&logo=github&logoColor=111111)
+<img src="./assets/toolkit-mono.svg" width="100%" alt="Herramientas: Python, Power BI, SQL básico, R básico, HTML, CSS, JavaScript básico, Git y GitHub" />
 
 <br/>
 
 ## ◼ &nbsp; TRAYECTORIA <sub> / 04</sub>
 
-🎓 &nbsp; **SENA** — Formación en programación para analítica de datos; actualmente en prácticas.
-
-🏆 &nbsp; **Mejor aprendiz del segundo trimestre** — Reconocimiento por desempeño académico y compromiso.
+<img src="./assets/journey-mono.svg" width="100%" alt="SENA: prácticas en programación para analítica de datos. Reconocimiento como mejor aprendiz del segundo trimestre" />
 
 <br/>
 
-## ◼ &nbsp; EN MOVIMIENTO <sub> / 05</sub>
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeiser15&bg_color=0d1117&color=eeeeee&line=aaaaaa&point=ffffff&area=true&area_color=555555&hide_border=true" alt="Actividad pública de Jeiser15 en GitHub" width="100%" />
-
-**IDEAS → DATOS → INTERFACES**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=EDEDED&center=true&vCenter=true&width=600&lines=IDEAS+%E2%86%92+DATOS+%E2%86%92+INTERFACES;SEGUIMOS+CONSTRUYENDO..." alt="Ideas, datos e interfaces. Seguimos construyendo." />
 
 <sub>JEISEER WILCHES &nbsp; / &nbsp; GRACIAS POR ESTAR AQUÍ</sub>
 
