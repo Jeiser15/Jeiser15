@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+<rect x="1" y="1" width="1198" height="198" rx="16" fill="#ececea" stroke="#fff"/>
+<text x="34" y="42" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#555">// TRAYECTORIA</text>
+<path d="M42 75V157" stroke="#777" stroke-width="2"/><circle cx="42" cy="83" r="7" fill="#111"/><circle cx="42" cy="150" r="7" fill="#111"/>
+<text x="66" y="88" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#111">SENA  /  EN PRÁCTICAS</text><text x="66" y="112" font-family="Arial,sans-serif" font-size="15" fill="#444">Formación en programación para analítica de datos.</text>
+<text x="66" y="155" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#111">MEJOR APRENDIZ  /  2.º TRIMESTRE</text><text x="66" y="179" font-family="Arial,sans-serif" font-size="15" fill="#444">Reconocimiento por desempeño académico y compromiso.</text>
+<text x="1040" y="145" font-family="Arial,sans-serif" font-weight="bold" font-size="102" fill="#d4d4d1">JW</text>
+</svg>
