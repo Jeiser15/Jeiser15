@@ -12,7 +12,7 @@
 
 <br/>
 
-## ◼ &nbsp; EL PUNTO DE ENCUENTRO
+## ● &nbsp; EL PUNTO DE ENCUENTRO
 
 **Soy Jeiseer Wilches. Me interesa lo que pasa entre una idea, los datos que la sustentan y la interfaz que la hace visible.**
 
@@ -34,7 +34,7 @@ Soy aprendiz del SENA en etapa de prácticas. Participo en proyectos de **fronte
 
 <br/>
 
-## ◼ &nbsp; TRABAJO DESTACADO <sub> / 01</sub>
+## ● &nbsp; TRABAJO DESTACADO <sub> / 01</sub>
 
 <a href="https://github.com/EstebanJimenez2311/Cattleya"><img src="./assets/feature-cattleya.svg" width="100%" alt="Cattleya: proyecto SENA, desarrollo frontend" /></a>
 
@@ -44,19 +44,19 @@ Soy aprendiz del SENA en etapa de prácticas. Participo en proyectos de **fronte
 
 <br/>
 
-## ◼ &nbsp; MI CAJA DE HERRAMIENTAS <sub> / 02</sub>
+## ● &nbsp; MI CAJA DE HERRAMIENTAS <sub> / 02</sub>
 
 <img src="./assets/toolkit-mono.svg" width="100%" alt="Herramientas: Python, Power BI, SQL básico, R básico, HTML, CSS, JavaScript básico, Git y GitHub" />
 
 <br/>
 
-## ◼ &nbsp; TRAYECTORIA <sub> / 03</sub>
+## ● &nbsp; TRAYECTORIA <sub> / 03</sub>
 
 <img src="./assets/journey-mono.svg" width="100%" alt="SENA: prácticas en programación para analítica de datos. Reconocimiento como mejor aprendiz del segundo trimestre" />
 
 <br/>
 
-## ◼ &nbsp; UN PASO A LA VEZ <sub> / 04</sub>
+## ● &nbsp; UN PASO A LA VEZ <sub> / 04</sub>
 
 Cada contribución es parte del proceso. Aprendiendo Git y construyendo, un día a la vez.
 
