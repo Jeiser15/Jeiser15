@@ -4,11 +4,12 @@
 
 <img src="./assets/hero-particles.gif" width="100%" alt="Jeiseer Wilches: datos y frontend. Analizar, construir y aprender." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=950&color=EDEDED&center=true&vCenter=true&width=700&lines=DEL+DATO+A+LA+PANTALLA.;Analizo.+Construyo.+Aprendo.;Frontend+%2B+Datos+%2B+Trabajo+en+equipo." alt="Del dato a la pantalla: analizo, construyo y aprendo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=950&color=EDEDED&center=true&vCenter=true&width=700&lines=DATOS+%2B+DESARROLLO+%2B+AUTOMATIZACI%C3%93N;Analizo.+Conecto.+Construyo.;Aprendiendo+con+cada+proyecto." alt="Datos, desarrollo y automatización: analizo, conecto y construyo" />
 
 ![Datos](https://img.shields.io/badge/01-DATOS-eeeeee?style=for-the-badge&labelColor=222222)
 ![Frontend](https://img.shields.io/badge/02-FRONTEND-bbbbbb?style=for-the-badge&labelColor=222222)
-![Prácticas](https://img.shields.io/badge/03-EN%20PR%C3%81CTICAS-888888?style=for-the-badge&labelColor=222222)
+![Automatización](https://img.shields.io/badge/03-AUTOMATIZACI%C3%93N-999999?style=for-the-badge&labelColor=222222)
+![Prácticas](https://img.shields.io/badge/04-EN%20PR%C3%81CTICAS-777777?style=for-the-badge&labelColor=222222)
 
 <br/><br/>
 
@@ -20,11 +21,12 @@
 
 <img src="./assets/intro-motion.gif" width="100%" alt="De los datos a la pantalla: analizo, construyo y aprendo." />
 
-Soy aprendiz del **SENA**, actualmente en prácticas. Trabajo en proyectos donde puedo explorar información y participar en la creación de interfaces: dos formas distintas de acercar las ideas a las personas.
+Soy aprendiz del **SENA**, actualmente en prácticas. Me interesa transformar datos en información útil, construir interfaces y explorar formas de automatizar tareas que normalmente se hacen a mano.
 
 📊 Con **Python y Power BI**, exploro datos y busco maneras claras de presentarlos.  
-💻 Desde el **frontend**, colaboro en la construcción de experiencias web.  
-🔍 También estoy fortaleciendo mis bases de **SQL y backend**, aprendiendo junto a mi equipo.
+💻 Desde el **frontend**, colaboro en la construcción de interfaces y formularios web.  
+⚙️ Exploro **automatización e integración** con n8n, APIs y webhooks.  
+🔍 Sigo fortaleciendo mis bases de **SQL y backend**, aprendiendo junto a mi equipo.
 
 > Me interesa entender el problema antes de construir la solución.
 
@@ -57,6 +59,16 @@ Soy aprendiz del **SENA**, actualmente en prácticas. Trabajo en proyectos donde
 ## ● &nbsp; MI CAJA DE HERRAMIENTAS <sub> / 02</sub>
 
 <img src="./assets/toolkit-mono.svg" width="100%" alt="Herramientas: Python, Power BI, SQL básico, R básico, HTML, CSS, JavaScript básico, Git y GitHub" />
+
+**TAMBIÉN ESTOY EXPLORANDO / AUTOMATIZACIÓN E INTEGRACIÓN**
+
+![n8n](https://img.shields.io/badge/n8n-292929?style=for-the-badge&logo=n8n&logoColor=white)
+![APIs y webhooks](https://img.shields.io/badge/APIs%20%26%20Webhooks-292929?style=for-the-badge)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-292929?style=for-the-badge&logo=googleappsscript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-292929?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-292929?style=for-the-badge)
+
+He practicado con formularios, conexiones entre aplicaciones y flujos para tareas repetitivas, organización y validación de información.
 
 <br/>
 
