@@ -55,7 +55,7 @@ Soy aprendiz del **SENA**, actualmente en prácticas. Me gusta entender los prob
 
 ## ● &nbsp; MI CAJA DE HERRAMIENTAS <sub> / 02</sub>
 
-<img src="./assets/toolkit-glow.gif" width="100%" alt="Herramientas: Python, Power BI, SQL y R básicos; HTML, CSS, JavaScript básico, Git y GitHub; y herramientas exploradas como n8n, APIs, webhooks, Google Apps Script, Node.js y Playwright." />
+<img src="./assets/toolkit-alive.gif" width="100%" alt="Herramientas: Python, Power BI, SQL y R básicos; HTML, CSS, JavaScript básico, Git y GitHub; y herramientas exploradas como n8n, APIs, webhooks, Google Apps Script, Node.js y Playwright." />
 
 He practicado con formularios, conexiones entre aplicaciones y flujos para tareas repetitivas, organización y validación de información.
 
