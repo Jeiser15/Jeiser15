@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/anime-night.gif" width="100%" alt="Ilustración animada estilo anime de una habitación nocturna, con un desarrollador trabajando en código y datos." />
+
 <img src="./assets/hero-particles.gif" width="100%" alt="Jeiseer Wilches: datos y frontend. Analizar, construir y aprender." />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=950&color=EDEDED&center=true&vCenter=true&width=700&lines=DEL+DATO+A+LA+PANTALLA.;Analizo.+Construyo.+Aprendo.;Frontend+%2B+Datos+%2B+Trabajo+en+equipo." alt="Del dato a la pantalla: analizo, construyo y aprendo" />
