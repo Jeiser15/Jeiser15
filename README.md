@@ -60,9 +60,11 @@ Soy aprendiz del **SENA**, actualmente en prácticas. Trabajo en proyectos donde
 
 <br/>
 
-## ● &nbsp; UN PASO A LA VEZ <sub> / 04</sub>
+## ● &nbsp; MI CAMINO EN CÓDIGO <sub> / 04</sub>
 
-Cada contribución es parte del proceso. Aprendiendo Git y construyendo, un día a la vez.
+<img src="./assets/contributions-header.svg" width="100%" alt="Cada paso cuenta: aprendiendo Git y construyendo mi camino, contribución a contribución." />
+
+<br/><br/>
 
 <div align="center">
 
@@ -74,10 +76,8 @@ Cada contribución es parte del proceso. Aprendiendo Git y construyendo, un día
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=EDEDED&center=true&vCenter=true&width=600&lines=IDEAS+%E2%86%92+DATOS+%E2%86%92+INTERFACES;SEGUIMOS+CONSTRUYENDO..." alt="Ideas, datos e interfaces. Seguimos construyendo." />
+<img src="./assets/closing-motion.gif" width="100%" alt="Seguimos construyendo: ideas, datos e interfaces." />
 
 <sub>JEISEER WILCHES &nbsp; / &nbsp; GRACIAS POR ESTAR AQUÍ</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:555555,100:eeeeee&height=105&section=footer" width="100%" alt="" />
 
 </div>
