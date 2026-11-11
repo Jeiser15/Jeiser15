@@ -62,9 +62,7 @@ Soy aprendiz del **SENA**, actualmente en prácticas. Trabajo en proyectos donde
 
 ## ● &nbsp; MI CAMINO EN CÓDIGO <sub> / 04</sub>
 
-<img src="./assets/contributions-header.svg" width="100%" alt="Cada paso cuenta: aprendiendo Git y construyendo mi camino, contribución a contribución." />
-
-<br/><br/>
+Estoy aprendiendo Git y GitHub. Cada contribución es un paso más en mi camino.
 
 <div align="center">
 
@@ -76,8 +74,6 @@ Soy aprendiz del **SENA**, actualmente en prácticas. Trabajo en proyectos donde
 
 <div align="center">
 
-<img src="./assets/closing-motion.gif" width="100%" alt="Seguimos construyendo: ideas, datos e interfaces." />
-
-<sub>JEISEER WILCHES &nbsp; / &nbsp; GRACIAS POR ESTAR AQUÍ</sub>
+<sub>Gracias por acompañarme en el proceso. 🤍</sub>
 
 </div>
