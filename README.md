@@ -56,6 +56,18 @@ Soy aprendiz del SENA en etapa de prácticas. Participo en proyectos de **fronte
 
 <br/>
 
+## ◼ &nbsp; UN PASO A LA VEZ <sub> / 04</sub>
+
+Cada contribución es parte del proceso. Aprendiendo Git y construyendo, un día a la vez.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jeiser15/Jeiser15/output/github-contribution-grid-snake.svg" width="100%" alt="Animación de serpiente sobre las contribuciones de GitHub de Jeiseer" />
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=EDEDED&center=true&vCenter=true&width=600&lines=IDEAS+%E2%86%92+DATOS+%E2%86%92+INTERFACES;SEGUIMOS+CONSTRUYENDO..." alt="Ideas, datos e interfaces. Seguimos construyendo." />
