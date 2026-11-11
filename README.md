@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/blackhole-motion.gif" width="100%" alt="Agujero negro en blanco y negro con estrellas animadas." />
-
-<img src="./assets/hero-particles.gif" width="100%" alt="Jeiseer Wilches: datos y frontend. Analizar, construir y aprender." />
+<img src="./assets/cosmic-hero.gif" width="100%" alt="Jeiseer Wilches: datos, frontend y automatización, con un agujero negro de fondo." />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=950&color=EDEDED&center=true&vCenter=true&width=700&lines=DATOS+%2B+DESARROLLO+%2B+AUTOMATIZACI%C3%93N;Analizo.+Conecto.+Construyo.;Aprendiendo+con+cada+proyecto." alt="Datos, desarrollo y automatización: analizo, conecto y construyo" />
 
