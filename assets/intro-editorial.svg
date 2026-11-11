@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs><pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#888" opacity=".35"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="258" rx="16" fill="#171717" stroke="#555"/>
+<path d="M780 1H1180Q1199 1 1199 20V240Q1199 259 1180 259H780Z" fill="#e9e9e6"/><path d="M985 1H1180Q1199 1 1199 20V135Z" fill="#d1d1cf"/><rect x="1" y="1" width="780" height="258" rx="16" fill="url(#dots)"/>
+<text x="38" y="42" fill="#aaa" font-family="Consolas,monospace" font-size="13" letter-spacing="2">// HOLA, SOY JEISEER</text>
+<text x="36" y="105" fill="#f7f7f4" font-family="Arial,sans-serif" font-size="39" font-weight="bold">Me muevo entre datos</text><text x="36" y="153" fill="#f7f7f4" font-family="Arial,sans-serif" font-size="39" font-weight="bold">e interfaces<tspan fill="#969696">.</tspan></text>
+<text x="39" y="202" fill="#bdbdbd" font-family="Arial,sans-serif" font-size="16">Analizar para comprender. Crear para conectar.</text>
+<text x="810" y="48" fill="#555" font-family="Consolas,monospace" font-size="12" letter-spacing="2">MI PUNTO DE VISTA</text>
+<text x="810" y="104" fill="#171717" font-family="Consolas,monospace" font-size="18" font-weight="bold">01 / EXPLORAR</text><path d="M810 120H1155" stroke="#aaa"/>
+<text x="810" y="157" fill="#171717" font-family="Consolas,monospace" font-size="18" font-weight="bold">02 / CONSTRUIR</text><path d="M810 173H1155" stroke="#aaa"/>
+<text x="810" y="210" fill="#171717" font-family="Consolas,monospace" font-size="18" font-weight="bold">03 / SEGUIR APRENDIENDO</text>
+</svg>
