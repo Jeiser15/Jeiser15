@@ -24,6 +24,16 @@ Soy aprendiz del SENA en etapa de prácticas. Participo en proyectos de **fronte
 
 <br/><br/>
 
+<img src="./assets/studio-visual.svg" width="100%" alt="Detrás de cada interfaz hay una buena pregunta: explorar, experimentar y convertir ideas en algo útil" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=1800&pause=650&color=FFFFFF&center=true&vCenter=true&width=700&lines=EXPLORAR+%2F%2F+CONSTRUIR+%2F%2F+EVOLUCIONAR;DATOS+%2B+DISE%C3%91O+%2B+DESARROLLO;SIEMPRE+HAY+ALGO+NUEVO+QUE+APRENDER" alt="Explorar, construir y evolucionar" />
+
+</div>
+
+<br/>
+
 ## ◼ &nbsp; TRABAJO DESTACADO <sub> / 01</sub>
 
 <a href="https://github.com/EstebanJimenez2311/Cattleya"><img src="./assets/feature-cattleya.svg" width="100%" alt="Cattleya: proyecto SENA, desarrollo frontend" /></a>
@@ -34,21 +44,13 @@ Soy aprendiz del SENA en etapa de prácticas. Participo en proyectos de **fronte
 
 <br/>
 
-## ◼ &nbsp; EN CONSTRUCCIÓN <sub> / 02</sub>
-
-<img src="./assets/collab-mono.svg" width="100%" alt="Proyectos colaborativos en desarrollo: Prizma Studio, DOCenter, Auto Prizma Pro y Cargue automático" />
-
-Participo en estos proyectos principalmente en frontend y análisis de datos. [**Ver Cargue automático Prizma ↗**](https://github.com/AutoPrizma/cargue-autom-tico-prizma.site-)
-
-<br/>
-
-## ◼ &nbsp; MI CAJA DE HERRAMIENTAS <sub> / 03</sub>
+## ◼ &nbsp; MI CAJA DE HERRAMIENTAS <sub> / 02</sub>
 
 <img src="./assets/toolkit-mono.svg" width="100%" alt="Herramientas: Python, Power BI, SQL básico, R básico, HTML, CSS, JavaScript básico, Git y GitHub" />
 
 <br/>
 
-## ◼ &nbsp; TRAYECTORIA <sub> / 04</sub>
+## ◼ &nbsp; TRAYECTORIA <sub> / 03</sub>
 
 <img src="./assets/journey-mono.svg" width="100%" alt="SENA: prácticas en programación para analítica de datos. Reconocimiento como mejor aprendiz del segundo trimestre" />
 
@@ -59,5 +61,7 @@ Participo en estos proyectos principalmente en frontend y análisis de datos. [*
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=EDEDED&center=true&vCenter=true&width=600&lines=IDEAS+%E2%86%92+DATOS+%E2%86%92+INTERFACES;SEGUIMOS+CONSTRUYENDO..." alt="Ideas, datos e interfaces. Seguimos construyendo." />
 
 <sub>JEISEER WILCHES &nbsp; / &nbsp; GRACIAS POR ESTAR AQUÍ</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:555555,100:eeeeee&height=105&section=footer" width="100%" alt="" />
 
 </div>
