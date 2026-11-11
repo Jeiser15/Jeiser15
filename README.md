@@ -17,7 +17,15 @@
 
 <br/>
 
-<img src="./assets/about-orbit.svg" width="100%" alt="Mi universo digital: exploración y visualización de datos con Python, Power BI y SQL; desarrollo frontend con HTML, CSS y JavaScript; y exploración de automatizaciones con n8n, APIs y webhooks." />
+## ● &nbsp; MI UNIVERSO DIGITAL
+
+<div align="center">
+
+<img src="./assets/skill-motion-0.gif" width="32%" alt="Datos: exploración y visualización con Python, Power BI y SQL." />
+<img src="./assets/skill-motion-1.gif" width="32%" alt="Frontend: interfaces web con HTML, CSS y JavaScript." />
+<img src="./assets/skill-motion-2.gif" width="32%" alt="Automatización: explorando flujos con n8n, APIs y webhooks." />
+
+</div>
 
 Soy aprendiz del **SENA**, actualmente en prácticas. Me gusta entender los problemas, trabajar en equipo y convertir ideas en soluciones útiles. Sigo fortaleciendo mis bases de **SQL y backend** mientras aprendo con cada proyecto.
 
