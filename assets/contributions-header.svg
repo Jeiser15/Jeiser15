@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs><pattern id="p" width="15" height="15" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#aaa" opacity=".32"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="218" rx="16" fill="#151515" stroke="#555"/><rect x="1" y="1" width="1198" height="218" rx="16" fill="url(#p)"/>
+<path d="M890 1H1180Q1199 1 1199 20V200Q1199 219 1180 219H802Z" fill="#e9e9e6"/>
+<text x="34" y="44" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#aaa">// LEARNING IN PUBLIC</text>
+<text x="30" y="108" font-family="Arial,sans-serif" font-size="47" font-weight="bold" fill="#f4f4f1">CADA PASO CUENTA<tspan fill="#999">.</tspan></text>
+<text x="34" y="149" font-family="Arial,sans-serif" font-size="18" fill="#bdbdbd">Aprendiendo Git y construyendo mi camino, contribución a contribución.</text>
+<rect x="34" y="175" width="210" height="26" rx="13" fill="#eeeeeb"/><text x="50" y="193" font-family="Consolas,monospace" font-size="12" fill="#111">PROGRESO &gt; PERFECCIÓN</text>
+<text x="906" y="84" font-family="Consolas,monospace" font-size="13" fill="#444">STATUS /</text><text x="904" y="126" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#111">EN PROCESO</text><path d="M907 151H1125" stroke="#aaa" stroke-width="2"/><text x="906" y="178" font-family="Consolas,monospace" font-size="13" fill="#444">KEEP BUILDING ↗</text>
+</svg>
