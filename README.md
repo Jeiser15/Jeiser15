@@ -55,15 +55,7 @@ Soy aprendiz del **SENA**, actualmente en prácticas. Me gusta entender los prob
 
 ## ● &nbsp; MI CAJA DE HERRAMIENTAS <sub> / 02</sub>
 
-<img src="./assets/toolkit-mono.svg" width="100%" alt="Herramientas: Python, Power BI, SQL básico, R básico, HTML, CSS, JavaScript básico, Git y GitHub" />
-
-**TAMBIÉN ESTOY EXPLORANDO / AUTOMATIZACIÓN E INTEGRACIÓN**
-
-![n8n](https://img.shields.io/badge/n8n-292929?style=for-the-badge&logo=n8n&logoColor=white)
-![APIs y webhooks](https://img.shields.io/badge/APIs%20%26%20Webhooks-292929?style=for-the-badge)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-292929?style=for-the-badge&logo=googleappsscript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-292929?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-292929?style=for-the-badge)
+<img src="./assets/toolkit-motion.gif" width="100%" alt="Herramientas: Python, Power BI, SQL y R básicos; HTML, CSS, JavaScript básico, Git y GitHub; y herramientas exploradas como n8n, APIs, webhooks, Google Apps Script, Node.js y Playwright." />
 
 He practicado con formularios, conexiones entre aplicaciones y flujos para tareas repetitivas, organización y validación de información.
 
