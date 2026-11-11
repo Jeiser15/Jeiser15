@@ -39,9 +39,15 @@ Soy aprendiz del **SENA**, actualmente en prácticas. Me gusta entender los prob
 
 ## ● &nbsp; TRABAJO DESTACADO <sub> / 01</sub>
 
-<a href="https://github.com/EstebanJimenez2311/Cattleya"><img src="./assets/cattleya-motion.gif" width="100%" alt="Cattleya: proyecto SENA de análisis de datos, con participación en desarrollo frontend." /></a>
+<a href="https://github.com/EstebanJimenez2311/Cattleya"><img src="./assets/cattleya-showcase.gif" width="100%" alt="Cattleya: proyecto SENA de información sobre violencia de género, con mi aporte en frontend." /></a>
 
-**Cattleya** es un proyecto colaborativo del SENA que analiza datos sobre la violencia contra la mujer en Colombia. Mi aporte fue el **desarrollo del frontend**, como parte del trabajo en equipo.
+**Cattleya** es una plataforma colaborativa del SENA que recopila, clasifica y visualiza noticias sobre violencia de género en Colombia. El proyecto busca hacer más accesible información sobre una problemática social.
+
+**Mi aporte →** desarrollo del frontend, trabajando en equipo en la interfaz del proyecto.
+
+![HTML](https://img.shields.io/badge/HTML-eeeeee?style=flat-square&logo=html5&logoColor=111111)
+![CSS](https://img.shields.io/badge/CSS-cccccc?style=flat-square&logo=css&logoColor=111111)
+![JavaScript](https://img.shields.io/badge/JavaScript-aaaaaa?style=flat-square&logo=javascript&logoColor=111111)
 
 ↗ &nbsp; [**EXPLORAR PROYECTO**](https://github.com/EstebanJimenez2311/Cattleya) &nbsp; · &nbsp; `PROYECTO FINALIZADO`
 
