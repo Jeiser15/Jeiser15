@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/anime-night.gif" width="100%" alt="Ilustración animada estilo anime de una habitación nocturna, con un desarrollador trabajando en código y datos." />
-
 <img src="./assets/hero-particles.gif" width="100%" alt="Jeiseer Wilches: datos y frontend. Analizar, construir y aprender." />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=950&color=EDEDED&center=true&vCenter=true&width=700&lines=DEL+DATO+A+LA+PANTALLA.;Analizo.+Construyo.+Aprendo.;Frontend+%2B+Datos+%2B+Trabajo+en+equipo." alt="Del dato a la pantalla: analizo, construyo y aprendo" />
@@ -9,6 +7,10 @@
 ![Datos](https://img.shields.io/badge/01-DATOS-eeeeee?style=for-the-badge&labelColor=222222)
 ![Frontend](https://img.shields.io/badge/02-FRONTEND-bbbbbb?style=for-the-badge&labelColor=222222)
 ![Prácticas](https://img.shields.io/badge/03-EN%20PR%C3%81CTICAS-888888?style=for-the-badge&labelColor=222222)
+
+<br/><br/>
+
+<img src="./assets/anime-night.gif" width="55%" alt="Ilustración animada estilo anime de una habitación nocturna, con un desarrollador trabajando en código y datos." />
 
 </div>
 
