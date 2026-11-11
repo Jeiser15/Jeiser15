@@ -17,28 +17,13 @@
 
 <br/>
 
-<img src="./assets/intro-motion.gif" width="100%" alt="De los datos a la pantalla: analizo, construyo y aprendo." />
+<img src="./assets/about-orbit.svg" width="100%" alt="Mi universo digital: exploración y visualización de datos con Python, Power BI y SQL; desarrollo frontend con HTML, CSS y JavaScript; y exploración de automatizaciones con n8n, APIs y webhooks." />
 
-Soy aprendiz del **SENA**, actualmente en prácticas. Me interesa transformar datos en información útil, construir interfaces y explorar formas de automatizar tareas que normalmente se hacen a mano.
-
-📊 Con **Python y Power BI**, exploro datos y busco maneras claras de presentarlos.  
-💻 Desde el **frontend**, colaboro en la construcción de interfaces y formularios web.  
-⚙️ Exploro **automatización e integración** con n8n, APIs y webhooks.  
-🔍 Sigo fortaleciendo mis bases de **SQL y backend**, aprendiendo junto a mi equipo.
-
-> Me interesa entender el problema antes de construir la solución.
-
-<br/>
-
-<img src="./assets/process-strip.svg" width="100%" alt="Explorar datos, construir interfaces y aprender en equipo" />
-
-<br/><br/>
-
-<img src="./assets/studio-visual.svg" width="100%" alt="Detrás de cada interfaz hay una buena pregunta: explorar, experimentar y convertir ideas en algo útil" />
+Soy aprendiz del **SENA**, actualmente en prácticas. Me gusta entender los problemas, trabajar en equipo y convertir ideas en soluciones útiles. Sigo fortaleciendo mis bases de **SQL y backend** mientras aprendo con cada proyecto.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=1800&pause=650&color=FFFFFF&center=true&vCenter=true&width=700&lines=EXPLORAR+%2F%2F+CONSTRUIR+%2F%2F+EVOLUCIONAR;DATOS+%2B+DISE%C3%91O+%2B+DESARROLLO;SIEMPRE+HAY+ALGO+NUEVO+QUE+APRENDER" alt="Explorar, construir y evolucionar" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=EXPLORAR+%2F%2F+CONSTRUIR+%2F%2F+CONECTAR;DATOS+%2B+FRONTEND+%2B+AUTOMATIZACI%C3%93N;APRENDER+EN+CADA+PROYECTO" alt="Explorar, construir y conectar" />
 
 </div>
 
