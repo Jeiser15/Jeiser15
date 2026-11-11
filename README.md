@@ -12,8 +12,6 @@
 
 <br/>
 
-## ● &nbsp; HOLA, SOY JEISEER
-
 <img src="./assets/intro-motion.gif" width="100%" alt="De los datos a la pantalla: analizo, construyo y aprendo." />
 
 Soy aprendiz del **SENA**, actualmente en prácticas. Trabajo en proyectos donde puedo explorar información y participar en la creación de interfaces: dos formas distintas de acercar las ideas a las personas.
