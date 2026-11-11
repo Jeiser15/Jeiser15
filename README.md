@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="./assets/astro-code.gif" width="170" alt="Astronauta pixel art flotando con un portátil." />
+<img src="./assets/astro-meteors.gif" width="200" alt="Astronauta pixel art flotando con un portátil mientras pasan pequeños meteoritos." />
 
 </div>
 
