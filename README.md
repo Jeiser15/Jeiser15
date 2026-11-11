@@ -12,11 +12,17 @@
 
 <br/>
 
-## ● &nbsp; EL PUNTO DE ENCUENTRO
+## ● &nbsp; HOLA, SOY JEISEER
 
-**Soy Jeiseer Wilches. Me interesa lo que pasa entre una idea, los datos que la sustentan y la interfaz que la hace visible.**
+<img src="./assets/intro-editorial.svg" width="100%" alt="Me muevo entre datos e interfaces. Analizar para comprender, crear para conectar." />
 
-Soy aprendiz del SENA en etapa de prácticas. Participo en proyectos de **frontend y análisis de datos**; también estoy fortaleciendo mis conocimientos de backend. Me gusta aprender junto a otros y convertir información en algo que las personas puedan entender y utilizar.
+Soy aprendiz del **SENA**, actualmente en prácticas. Trabajo en proyectos donde puedo explorar información y participar en la creación de interfaces: dos formas distintas de acercar las ideas a las personas.
+
+📊 Con **Python y Power BI**, exploro datos y busco maneras claras de presentarlos.  
+💻 Desde el **frontend**, colaboro en la construcción de experiencias web.  
+🔍 También estoy fortaleciendo mis bases de **SQL y backend**, aprendiendo junto a mi equipo.
+
+> Me interesa entender el problema antes de construir la solución.
 
 <br/>
 
