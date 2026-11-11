@@ -39,7 +39,7 @@ Soy aprendiz del **SENA**, actualmente en prácticas. Me gusta entender los prob
 
 ## ● &nbsp; TRABAJO DESTACADO <sub> / 01</sub>
 
-<a href="https://github.com/EstebanJimenez2311/Cattleya"><img src="./assets/cattleya-live.gif" width="100%" alt="Cattleya: proyecto SENA de información sobre violencia de género, con mi aporte en frontend." /></a>
+<a href="https://github.com/EstebanJimenez2311/Cattleya"><img src="./assets/cattleya-fluid.gif" width="100%" alt="Cattleya: proyecto SENA de información sobre violencia de género, con mi aporte en frontend." /></a>
 
 **Cattleya** es una plataforma colaborativa del SENA que recopila, clasifica y visualiza noticias sobre violencia de género en Colombia. El proyecto busca hacer más accesible información sobre una problemática social.
 
