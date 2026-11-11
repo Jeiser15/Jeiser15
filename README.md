@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="./assets/anime-rain.gif" width="70%" alt="Escena anime animada: una habitación nocturna con lluvia y un desarrollador trabajando en código y datos." />
+<img src="./assets/astro-code.gif" width="170" alt="Astronauta pixel art flotando con un portátil." />
 
 </div>
 
