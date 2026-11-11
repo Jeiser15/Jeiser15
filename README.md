@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="./assets/anime-night-soft.gif" width="70%" alt="Ilustración animada estilo anime de una habitación nocturna, con un desarrollador trabajando en código y datos." />
+<img src="./assets/anime-rain.gif" width="70%" alt="Escena anime animada: una habitación nocturna con lluvia y un desarrollador trabajando en código y datos." />
 
 </div>
 
